@@ -1,0 +1,6 @@
+export const actions = {
+  MODIFY_USER: "MODIFY_USER",
+  LOGIN: "LOGIN",
+  LOGIN_SUCCESS: "LOGIN_SUCCESS",
+  LOGIN_ERROR: "LOGIN_ERROR",
+};
